@@ -1,5 +1,7 @@
 # 🩺 MedAI Triage
+## Demo
 
+Работающая версия проекта: https://nijqypaosaczazgzjjuven.streamlit.app/
 AI-assisted symptom triage prototype for educational purposes.
 
 ## 📌 About the project
